@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20vh;
+}
+.card{
+    height: fit-content;
+    width: 40%;
+}
+.card-body,.card-header{
+    text-align: center;
+}
